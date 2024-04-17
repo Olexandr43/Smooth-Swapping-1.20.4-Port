@@ -47,8 +47,8 @@ Smooth Swapping is a client side mod that animates item movement inside of inven
 
 ---
 
-[Forge downloads](https://legacy.curseforge.com/minecraft/mc-mods/smooth-swapping/files/all?filter-status=1&filter-game-version=2020709689%3A7498)
+[Forge download](https://modrinth.com/mod/smooth-swapping-1.20.4-port/version/5A7I76KL)
 
-[Fabric downloads](https://legacy.curseforge.com/minecraft/mc-mods/smooth-swapping/files/all?filter-status=1&filter-game-version=2020709689%3A7499)
+[Fabric download](https://modrinth.com/mod/smooth-swapping-1.20.4-port/version/0.9.2)
 
 

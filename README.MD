@@ -1,5 +1,11 @@
-<h1 align="center">Smooth Swapping</h1>
+<h1 align="center">Smooth Swapping 1.20.4 Port</h1>
 
+---
+This is port of [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) mod to 1.20.4, og mod made by [Schauweg](https://modrinth.com/user/Schauweg)
+
+Source port by [dima_dencep](https://github.com/dima-dencep)
+
+Compiled by [Olexandr_43](https://modrinth.com/user/Olexandr_43)
 ---
 
 <h3 align="center">About</h3>

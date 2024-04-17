@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "dev/shwg/smoothswapping/mixin/ClickSlotPacketMixin": {
+      "<init>(IIIILnet/minecraft/screen/slot/SlotActionType;Lnet/minecraft/item/ItemStack;Lit/unimi/dsi/fastutil/ints/Int2ObjectMap;)V": "Lnet/minecraft/class_2813;<init>(IIIILnet/minecraft/class_1713;Lnet/minecraft/class_1799;Lit/unimi/dsi/fastutil/ints/Int2ObjectMap;)V"
+    },
+    "dev/shwg/smoothswapping/mixin/DrawContextMixin": {
+      "drawItem(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/world/World;Lnet/minecraft/item/ItemStack;IIII)V": "Lnet/minecraft/class_332;method_51425(Lnet/minecraft/class_1309;Lnet/minecraft/class_1937;Lnet/minecraft/class_1799;IIII)V",
+      "drawItemInSlot(Lnet/minecraft/client/font/TextRenderer;Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/class_332;method_51432(Lnet/minecraft/class_327;Lnet/minecraft/class_1799;IILjava/lang/String;)V"
+    },
+    "dev/shwg/smoothswapping/mixin/HandledScreenMixin": {
+      "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+    },
+    "dev/shwg/smoothswapping/mixin/SimpleInventoryAccessor": {
+      "heldStacks": "field_5828:Lnet/minecraft/class_2371;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/shwg/smoothswapping/mixin/ClickSlotPacketMixin": {
+        "<init>(IIIILnet/minecraft/screen/slot/SlotActionType;Lnet/minecraft/item/ItemStack;Lit/unimi/dsi/fastutil/ints/Int2ObjectMap;)V": "Lnet/minecraft/class_2813;<init>(IIIILnet/minecraft/class_1713;Lnet/minecraft/class_1799;Lit/unimi/dsi/fastutil/ints/Int2ObjectMap;)V"
+      },
+      "dev/shwg/smoothswapping/mixin/DrawContextMixin": {
+        "drawItem(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/world/World;Lnet/minecraft/item/ItemStack;IIII)V": "Lnet/minecraft/class_332;method_51425(Lnet/minecraft/class_1309;Lnet/minecraft/class_1937;Lnet/minecraft/class_1799;IIII)V",
+        "drawItemInSlot(Lnet/minecraft/client/font/TextRenderer;Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/class_332;method_51432(Lnet/minecraft/class_327;Lnet/minecraft/class_1799;IILjava/lang/String;)V"
+      },
+      "dev/shwg/smoothswapping/mixin/HandledScreenMixin": {
+        "render": "Lnet/minecraft/class_465;method_25394(Lnet/minecraft/class_332;IIF)V"
+      },
+      "dev/shwg/smoothswapping/mixin/SimpleInventoryAccessor": {
+        "heldStacks": "field_5828:Lnet/minecraft/class_2371;"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+v1	named	intermediary
+FIELD	dev/shwg/smoothswapping/mixin/ClickSlotPacketMixin	Lnet/minecraft/screen/slot/SlotActionType;	actionType	field_12815
+FIELD	dev/shwg/smoothswapping/mixin/ClickSlotPacketMixin	Lit/unimi/dsi/fastutil/ints/Int2ObjectMap;	modifiedStacks	field_29540
+FIELD	dev/shwg/smoothswapping/mixin/ClickSlotPacketMixin	I	slot	field_12818
+FIELD	dev/shwg/smoothswapping/mixin/DrawContextMixin	Lnet/minecraft/client/util/math/MatrixStack;	matrices	field_44657
+FIELD	dev/shwg/smoothswapping/mixin/DrawContextMixin	Lnet/minecraft/client/MinecraftClient;	client	field_44656
+FIELD	dev/shwg/smoothswapping/mixin/HandledScreenMixin	Lnet/minecraft/screen/ScreenHandler;	handler	field_2797
+FIELD	dev/shwg/smoothswapping/mixin/HandledScreenMixin	I	x	field_2776
+FIELD	dev/shwg/smoothswapping/mixin/HandledScreenMixin	I	y	field_2800
+METHOD	dev/shwg/smoothswapping/mixin/DrawContextMixin	(Lnet/minecraft/item/ItemStack;II)V	drawItem	method_51427
+METHOD	dev/shwg/smoothswapping/mixin/DrawContextMixin	(Lnet/minecraft/client/font/TextRenderer;Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V	drawItemInSlot	method_51432

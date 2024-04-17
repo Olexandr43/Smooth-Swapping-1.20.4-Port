@@ -3,7 +3,7 @@
 ---
 This is port of [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) mod to 1.20.4, og mod made by [Schauweg](https://modrinth.com/user/Schauweg)
 
-Source port by [dima_dencep](https://github.com/dima-dencep)
+Source code by [dima_dencep](https://github.com/dima-dencep)
 
 Compiled by [Olexandr_43](https://modrinth.com/user/Olexandr_43)
 

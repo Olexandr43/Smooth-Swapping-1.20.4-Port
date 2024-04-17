@@ -6,6 +6,7 @@ This is port of [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) mod 
 Source port by [dima_dencep](https://github.com/dima-dencep)
 
 Compiled by [Olexandr_43](https://modrinth.com/user/Olexandr_43)
+
 ---
 
 <h3 align="center">About</h3>

@@ -3,7 +3,7 @@
 ---
 This is port of [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) mod to 1.20.4, og mod made by [Schauweg](https://modrinth.com/user/Schauweg)
 
-If you need version for 1.21, cool guy made it: [YoungSoulluoS](https://github.com/YoungSoulluoS/Smooth-Swapping-1.20.4-Port/releases/tag/1.21-Fabric)
+If you need version for 1.21, cool guy made it: [YoungSoulluoS](https://github.com/YoungSoulluoS/Smooth-Swapping-1.20.4-Port/releases)
 
 Source code by [dima_dencep](https://github.com/dima-dencep)
 

@@ -9,6 +9,8 @@ Source code by [dima_dencep](https://github.com/dima-dencep)
 
 Compiled by [Olexandr_43](https://modrinth.com/user/Olexandr_43)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/olexandr43/smooth-swapping-1.20.4-port/badge)](https://www.codefactor.io/repository/github/olexandr43/smooth-swapping-1.20.4-port)
+
 ---
 
 <h3 align="center">About</h3>
